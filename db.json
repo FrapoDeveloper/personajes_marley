@@ -2,7 +2,7 @@
     "personajes_marley" : [
             {
             
-              "id" :1,
+              "id" :11,
               "nombre" : "Reiner Braun",
               "years" :"21 (año 863)",
               "birthdate" : "01 de agosto",
@@ -15,7 +15,7 @@
             
             {
              
-              "id" :2,
+              "id" :12,
               "nombre" : "Annie Leonhart",
               "years" :"20 (año 863)",
               "birthdate" : "22 de marzo",
@@ -28,7 +28,7 @@
             
             {
              
-              "id" :3,
+              "id" :13,
               "nombre" : "Bertolt Hoover",
               "years" :"16 (año 863)",
               "birthdate" : "30 de diciembre",
@@ -41,7 +41,7 @@
 
             {
              
-              "id" :4,
+              "id" :14,
               "nombre" : "Pieck Finger",
               "years" :"25 (año 863)",
               "birthdate" : "5 de agosto",
@@ -53,7 +53,7 @@
             },
             {
              
-              "id" :5,
+              "id" :15,
               "nombre" : "Zeke Jeager",
               "years" :"29 (año 863)",
               "birthdate" : "1 de agosto",
@@ -66,7 +66,7 @@
 
             {
              
-              "id" :6,
+              "id" :16,
               "nombre" : "Gabi Braun",
               "years" :"12 (año 863)",
               "birthdate" : "14 de abril",
@@ -77,7 +77,7 @@
               "definition" : "Candidata a guerrera  al servicio del gobierno de Marley. Ella es candidata a heredar el poder del Titán Acorazado."
             },
             {
-              "id" :7,
+              "id" :17,
               "nombre" : "Porco Galliard",
               "years" :"26 (año 863)",
               "birthdate" : "11 de noviembre",
@@ -88,7 +88,7 @@
               "definition" : "Guerrero eldiano al servicio del gobierno de Marley, él es hermano de Marcel y uno de los nueve titanes cambiantes."
             },
             {
-              "id" :8,
+              "id" :18,
               "nombre" : "Falco Grice",
               "years" :"11 (año 863)",
               "birthdate" : "10 de febrero",
@@ -99,7 +99,7 @@
               "definition" : "Guerrero eldiano al servicio del gobierno de Marley, Falco Grice actualmente es el poseedor del titan mandíbula."
             },
             {
-              "id" :9,
+              "id" :19,
               "nombre" : "Colt Grice",
               "years" :"25 (año 863)",
               "birthdate" : "12 de agostoo",

@@ -1,0 +1,121 @@
+{
+    "personajes_marley" : [
+            {
+            
+              "id" :1,
+              "nombre" : "Reiner Braun",
+              "years" :"21 (año 863)",
+              "birthdate" : "01 de agosto",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/63/a6/5b/63a65b6561e42e662015dcad9898818e.jpg",
+              "gif" :"https://i.pinimg.com/originals/6b/d6/c3/6bd6c3ab97b0d9d20052893a4df380af.gif",
+              "description" : "Es un ex-miembro del Cuerpo de Exploración. Posee la habilidad de transformarse en un titán y sirve a una unidad de soldados de Marley conocidos como guerreros. En el año 845, se infiltró en las murallas con la misión de encontrar y tomar el poder del Titán Fundador.",
+              "definition" : "Posee una fortaleza mental y fisica, sus compañeros confian plenamente en él, pero su actitud puede ser confusa."
+            },
+            
+            {
+             
+              "id" :2,
+              "nombre" : "Annie Leonhart",
+              "years" :"20 (año 863)",
+              "birthdate" : "22 de marzo",
+              "gender": "Femenino",
+              "img" :  "https://i.pinimg.com/564x/91/37/06/9137068743f8dc740196af4a32906b85.jpg",
+              "gif" :"https://i.pinimg.com/originals/3a/da/27/3ada273ccff19d6f3147bbcd73ceb405.gif",
+              "description" : "Ella posee la habilidad de transformarse en un titán y sirve a una unidad de soldados de Marley conocidos como guerreros Se le considera una chica solitaria y poco amistosa. Es apática y somnolienta, con poco deseo de esforzarse en cualquiera de las disciplinas.",
+              "definition" : "Aunque sus habilidades de combate son excepcionales, no trabaja bien como parte del equipo, es un lobo solitario."
+            },
+            
+            {
+             
+              "id" :3,
+              "nombre" : "Bertolt Hoover",
+              "years" :"16 (año 863)",
+              "birthdate" : "30 de diciembre",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/be/79/fd/be79fd92425988eccfb79cac1bb1105b.jpg",
+              "gif" :"https://pa1.narvii.com/6423/9c7a10f4d7208ef87d6f3d9fe0a216394bc759d4_hq.gif",
+              "description" : "Él poseía la habilidad de transformarse en un titán y servía a una unidad de soldados de Marley conocidos como guerreros. Bertolt era portador del Titán Colosal, un gigante de 60 metros de altura, capaz de asomarse por encima de los muros sin esfuerzo.",
+              "definition" : "Es muy talentoso pero le falta iniciativa, es algo reservado, y suele seguir a los demás debido a su débil voluntad."
+            },
+
+            {
+             
+              "id" :4,
+              "nombre" : "Pieck Finger",
+              "years" :"25 (año 863)",
+              "birthdate" : "5 de agosto",
+              "gender": "Femenino",
+              "img" :  "https://i.pinimg.com/564x/d2/ed/7d/d2ed7d4d686788558da645cb0cc6e7eb.jpg",
+              "gif" :"https://i.pinimg.com/originals/ec/6e/0f/ec6e0f2351ba2c0ba9adabcfaf26a9c3.gif",
+              "description" : "Pieck es alabado por su intelecto y capacidad para deducir consecuencias a partir de los hechos que se le presentan. Como titán, demuestra la inmensa velocidad y ventaja técnica para la comunicación, llevando lo esencial en su espalda por varios días.",
+              "definition" : "Es una guerrera de Marley, capaz de armar estratégias en cualquier situación y además poseedora del titán de carga."
+            },
+            {
+             
+              "id" :5,
+              "nombre" : "Zeke Jeager",
+              "years" :"29 (año 863)",
+              "birthdate" : "1 de agosto",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/b5/07/34/b5073437badfb4a75c2af3702f175048.jpg",
+              "gif" :"https://i.pinimg.com/originals/65/db/ec/65dbecb53a26026fea59edbbf875baa4.gif",
+              "description" : "Zeke posee numerosos rasgos anormales en comparación a otros Titanes Cambiantes. El más destacado es la capacidad de hablar el lenguaje humano con fluidez y sin problemas en su forma de titán, casualmente hablando o dando órdenes a otros titanes.",
+              "definition" : "Ex Capitán de la Unidad de Guerreros y el actual heredero del Bestia Titán, definido como el guerrero más poderoso."
+            },
+
+            {
+             
+              "id" :6,
+              "nombre" : "Gabi Braun",
+              "years" :"12 (año 863)",
+              "birthdate" : "14 de abril",
+              "gender": "Femenino",
+              "img" :  "https://i.pinimg.com/564x/a8/98/85/a898857d25cfc6e0f7fc34aaa7b4bdb0.jpg",
+              "gif" :"https://media1.tenor.com/images/31b2e3e9a24cf95ecdfcd210a3c3f399/tenor.gif",
+              "description" : "Parte del programa de guerreros al servicio de Marley, Gabi ha recibido un amplio entrenamiento militar. Demostró su ingenio al atar varias granadas para crear un explosivo mucho más potente, el cual usó para derribar el tren blindado del Fuerte Slava.",
+              "definition" : "Candidata a guerrera  al servicio del gobierno de Marley. Ella es candidata a heredar el poder del Titán Acorazado."
+            },
+            {
+              "id" :7,
+              "nombre" : "Porco Galliard",
+              "years" :"26 (año 863)",
+              "birthdate" : "11 de noviembre",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/ef/7c/74/ef7c747101a312e159e00451103a688b.jpg",
+              "gif" :"https://i.pinimg.com/originals/36/6e/fe/366efed8c161db5e69ebb11a66e0ed31.gif",
+              "description" : "Galliard es capaz de transformarse en un titán de cinco metros de estatura, conocido como Titán Mandíbula. En su forma de titán, Galliard posee una increíble agilidad, siendo capaz de saltar grandes distancias para tomar por sorpresa a sus enemigos.",
+              "definition" : "Guerrero eldiano al servicio del gobierno de Marley, él es hermano de Marcel y uno de los nueve titanes cambiantes."
+            },
+            {
+              "id" :8,
+              "nombre" : "Falco Grice",
+              "years" :"11 (año 863)",
+              "birthdate" : "10 de febrero",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/04/72/80/047280e9ba619e600ebac555771d2398.jpg",
+              "gif" :"https://i.pinimg.com/originals/6d/f8/73/6df8739ee7b9765ad5e46077114dc10f.gif",
+              "description" : "Falco fue transformado en titán por Zeke Jaeger al haber ingerido accidentalmente su fluido espinal. En dicha forma posee una altura cercana a la del Titán Acorazado y mantiene la misma delgadez, Falco Grice ha recibido un amplio entrenamiento militar. ",
+              "definition" : "Guerrero eldiano al servicio del gobierno de Marley, Falco Grice actualmente es el poseedor del titan mandíbula."
+            },
+            {
+              "id" :9,
+              "nombre" : "Colt Grice",
+              "years" :"25 (año 863)",
+              "birthdate" : "12 de agostoo",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/56/eb/c6/56ebc6bdf9c9b3d9d308a776fbccd9e1.jpg",
+              "gif" :"https://media1.tenor.com/images/c24b9a6d307b06867b67b88ff078df9a/tenor.gif",
+              "description" : "Como parte del programa de guerreros eldianos al servicio de Marley, Colt ha recibido un amplio entrenamiento militar. Sus habilidades durante su instrucción como guerrero fueron excepcionales, tanto así que hubiese heredado el poder del Titán Bestia.",
+              "definition" : "Guerrero eldiano al servicio del gobierno de Marley, es el hermano mayor de Falco y posee bastante determinación."
+            }
+            
+
+            
+            
+        
+    ]
+    
+    
+
+}
